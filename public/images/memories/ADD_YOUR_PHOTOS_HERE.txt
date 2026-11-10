@@ -1,0 +1,2 @@
+Add your photos here as memory-01.jpg through memory-18.jpg.
+See the root README.md for instructions.
